@@ -1,4 +1,4 @@
-import { products } from 'products.js';
+import { products } from './products.js';
 
 const data = products;
 console.log(data)
